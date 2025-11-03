@@ -2,11 +2,7 @@
 
 A Flutter application showcasing basic layout and responsive UI design principles. This app displays personal information, profile details, skills, experience, and social links in a clean and professional manner.
 ## 🎬 Demo
-
-Watch the demo video of the app using one of the links below.
-
-- Play on GitHub (opens file viewer): [Demo video](https://github.com/man0405/personal_profile_app/blob/main/assets/demo.mp4)
-- Direct raw file (opens in browser/player): https://raw.githubusercontent.com/man0405/personal_profile_app/main/assets/demo.mp4
+https://github.com/user-attachments/assets/2a21514b-6cbb-43d9-a300-ea850fbe2b97
 
 
 ## 🎯 Project Goal
